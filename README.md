@@ -1,2 +1,2 @@
-# Narys_resprites
-Nary's resourcepack, tweaks a bunch of vanilla &amp; modded assets
+# Revolutionary Spritres
+A resourcepack created by nary and evo, tweaks a bunch of vanilla &amp; modded assets
