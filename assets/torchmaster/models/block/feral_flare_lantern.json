@@ -1,0 +1,23 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "block/block",
+	"textures": {
+		"particle": "torchmaster:block/feral_flare_lantern",
+		"tex": "torchmaster:block/feral_flare_lantern"
+	},
+	"elements": [
+		{
+			"name": "lantern",
+			"from": [4, 2, 4],
+			"to": [12, 14, 12],
+			"faces": {
+				"north": {"uv": [0, 0, 8, 12], "texture": "#tex"},
+				"east": {"uv": [0, 0, 8, 12], "texture": "#tex"},
+				"south": {"uv": [0, 0, 8, 12], "texture": "#tex"},
+				"west": {"uv": [0, 0, 8, 12], "texture": "#tex"},
+				"up": {"uv": [8, 0, 16, 8], "texture": "#tex"},
+				"down": {"uv": [8, 0, 16, 8], "texture": "#tex"}
+			}
+		}
+	]
+}
